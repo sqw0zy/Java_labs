@@ -1,4 +1,4 @@
-public class Pizza {
+public abstract class Pizza {
     public void prepare() {
         IO.println("preparing");
     }
